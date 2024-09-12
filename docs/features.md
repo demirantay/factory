@@ -1,4 +1,3 @@
-# factory
 features
 
 - email
